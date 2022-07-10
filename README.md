@@ -734,3 +734,4 @@ It is now time to build the .NET MAUI user interface in `View/MainPage.xaml`. Ou
 Let's continue our journey and learn about Navigation in [Part 3](../Part%203%20-%20Navigation/README.md)
 "# dotnet-maui-workshop" 
 "# dotnet-maui-workshop" 
+"# dotnet-maui-workshop" 
