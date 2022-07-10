@@ -1,5 +1,5 @@
 ### Description
-This is the result of the exercices propossed by @JamesMontemagno in the .NET MAUI - Workshop 
+This is the result of the exercices proposed by @JamesMontemagno in the .NET MAUI - Workshop 
 Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#
 https://www.youtube.com/watch?v=DuNLR_NJv8U 
 
